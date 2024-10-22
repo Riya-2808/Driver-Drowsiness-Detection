@@ -19,7 +19,7 @@ The architecture of the Convolutional Neural Network is composed of:
 
 Convolutional Layers:
 
-First layer: 32 nodes with a 3x3 kernel/n
+First layer: 32 nodes with a 3x3 kernel
 
 Second layer: 32 nodes with a 3x3 kernel
 
